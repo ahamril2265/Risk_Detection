@@ -215,7 +215,7 @@ Fairness Analysis
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Credit_Risk_Scoring.git
+git clone https://github.com/ahamril2265/Credit_Risk_Scoring.git
 cd Credit_Risk_Scoring
 ```
 
